@@ -1,5 +1,5 @@
 ![logo](https://github.com/Umii010/Umii010/blob/main/WhatsApp%20Image%202023-01-25%20at%209.57.49%20AM.jpeg)
-<h1 align="center">Hi 👋, I'm Umer Shahzad</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Umer Shahzad</h1>
 <h3 align="center">On the way to become the best Data Scientist in the World!</h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=6c09b952da947dc88d26a07ea636461d7c5b26e0c1ebf602&rid=giphy.gif&ct=s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umii010&label=Profile%20views&color=0e75b6&style=flat" alt="umii010" /> </p>
