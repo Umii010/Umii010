@@ -99,16 +99,18 @@ I'm a passionate Full Stack Software Engineer with expertise in WordPress theme 
 ## 🔥 Recent Projects
 
 ### WordPress Themes
-- **Theme Name 1** - Description of your WordPress theme
-- **Theme Name 2** - Description of your WordPress theme
+- **Fortitude Real Estate** - A modern real estate website built to showcase properties and services. [fortitude-re.com](https://fortitude-re.com/)
+- **Ace Capital Group** - A finance-focused WordPress site tailored for investment and capital management. [acecapitalgrou.wpenginepowered.com](https://acecapitalgrou.wpenginepowered.com/)
+- **Prosperity CSTG Portfolio** - A sleek portfolio site highlighting CSTG’s work and case studies. [prosperitycstg.wpenginepowered.com/portfolio/](https://prosperitycstg.wpenginepowered.com/portfolio/)
 
 ### Laravel Projects
-- **Project Name 1** - Description of your Laravel project
-- **Project Name 2** - Description of your Laravel project
+- **AI Wealth Pro** - An AI-powered wealth calculator platform for smart investment planning. [aiwealthpro.ai](https://aiwealthpro.ai/)
+- **The Collective Genius** - A Laravel-based networking platform for real estate investors and entrepreneurs. [thecollectivegenius.com](https://thecollectivegenius.com/)
 
 ### ASP.NET Core Applications
-- **App Name 1** - Description of your ASP.NET Core application
-- **App Name 2** - Description of your ASP.NET Core application
+- **C&S Homes** - A property buying/selling solution designed for real estate businesses. [candshomes.com](https://candshomes.com/)
+- **Cash House Buyers USA** - A home-buying platform that helps sellers quickly connect with cash buyers. [cashhousebuyersusa.com](https://cashhousebuyersusa.com/)
+
 
 ---
 
