@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Muhammad Umer Shahzad</h1>
-<h3 align="center">Full Stack Software Engineer | WordPress & Laravel Specialist</h3>
+<h3 align="center">Software Engineer | WordPress & Laravel Specialist</h3>
 
 <p align="center">
   <img src="https://github.com/Umii010/Umii010/blob/main/WhatsApp%20Image%202023-01-25%20at%209.57.49%20AM.jpeg" alt="Muhammad Umer Shahzad" width="300" style="border-radius: 50%; border: 5px solid #3498db; box-shadow: 0 0 15px rgba(0,0,0,0.2);">
